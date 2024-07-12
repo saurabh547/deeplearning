@@ -1,3 +1,5 @@
+#pip install tensorflow scikit-learn matplotlib numpy
+
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.metrics import classification_report
 from tensorflow.keras.models import Sequential
